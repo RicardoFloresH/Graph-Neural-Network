@@ -1,5 +1,5 @@
 # Graph Neural Network (GNN)
-Machine Learning and GNN ![Results](Results_MAPE.png) using MAPE as metric.
-
+Machine learning and GNN results using MAPE as metric.
+![](Results_MAPE.png)
 Ricardo Flores
 
